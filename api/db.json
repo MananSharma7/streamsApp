@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "Hey",
+      "description": "Hey! This is my first Stream",
+      "id": 1
+    },
+    {
+      "title": "Me Streaming Component Reuse!",
+      "description": "Watch me refactor  some components.",
+      "userId": "104969148448710010579",
+      "id": 3
+    },
+    {
+      "title": "This is Frying Pan!",
+      "description": "Just Talk Session..",
+      "userId": "104969148448710010579",
+      "id": 4
+    }
+  ]
+}
