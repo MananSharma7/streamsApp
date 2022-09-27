@@ -7,6 +7,7 @@ import StreamList from "./streams/StreamList";
 import StreamShow from "./streams/StreamShow";
 import Header from "./Header";
 import history from "../history";
+import "../style/App.css";
 
 //65622973919-c9khsh497uqdl8sgakma9466bnn8irql.apps.googleusercontent.com
 
